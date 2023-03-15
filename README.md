@@ -2,6 +2,8 @@
 
 Using [***Reverse Engineered ChatGPT API***](https://github.com/acheong08/ChatGPT) create a simple python CLI.
 
+***Warning***: Not use you can be banned :'(.
+
 ### Access token
 
 [**Access token**](https://chat.openai.com/api/auth/session)
